@@ -1,2 +1,2 @@
-# 02-css3-specialist
+# Urmil's CSS3 Specialist Repository
  
